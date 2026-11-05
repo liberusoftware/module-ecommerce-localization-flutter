@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-localization-flutter",
+  "capabilityKey": "planned:ecommerce:localization",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_localization_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/localization.md",
+  "presentationPlan": "projects/ecommerce/flutter/localization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
